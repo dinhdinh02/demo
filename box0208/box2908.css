@@ -1,0 +1,59 @@
+body{
+ width: 28%;
+ margin-left: 36%;
+ font-family: Arial, Helvetica, sans-serif;
+ 
+
+}
+.text-size-01{
+    font-size: 16px;
+   
+}
+.search-text{
+    color: rgb(147, 145, 145);
+    height: 30px;
+    border-color:rgb(147, 145, 145);
+    border-style: solid ;
+    border-width: 1px;
+    width: 93%;
+    float: left;
+
+}
+.search-icon{
+    color: rgb(201, 194, 194);
+    height: 30px;width: 7%;
+    border-color:rgb(201, 194, 194);
+    border-style: solid ;
+    border-width: 1px;
+    background-color: white;
+    
+}
+.icon{
+    height: 60%;
+}
+.text-size-02{
+    font-size: 14px;
+}
+.radio{
+  border-color: rgb(201, 194, 194);
+ 
+}
+.search-text-01{
+    width: 100%;
+    color: rgb(147, 145, 145);
+    height: 30px;
+    border-color:rgb(147, 145, 145);
+    border-style: solid ;
+    border-width: 1px;
+   
+}
+.float-right{
+    float: right;
+}
+.float-left{
+    float: left;
+}
+.search-bottom{
+    height: 30px;
+}
+
